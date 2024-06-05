@@ -44,3 +44,22 @@
     border: none;
     color: white;
 }
+
+.submit-button:hover {
+    background-color: rgba(119, 119, 179, 0.845);
+    cursor: pointer;
+}
+
+
+.open-button {
+    background-color: rgba(163, 163, 245, 0.845);
+    height: 40px;
+    width: 120px;
+    border: none;
+    color: white;
+}
+
+.open-button:hover {
+    background-color: rgba(119, 119, 179, 0.845);
+    cursor: pointer;
+}
